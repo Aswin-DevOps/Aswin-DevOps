@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Aswin-DevOps/Aswin-DevOps/blob/main/banner.png" alt="Aswin R - DevOps Engineer" />
+</p>
+
 <h1 align="center">Hi 👋, I'm <strong>Aswin R</strong></h1>
 <h3 align="center">DevOps Engineer | AWS | GCP | Docker | Jenkins |  Terraform | Kubernetes | CI/CD | Cloud Automation</h3>
 
@@ -8,11 +12,13 @@ I am a **DevOps Engineer with 2.5+ years of experience** building scalable, auto
 My expertise lies in **Infrastructure as Code, CI/CD, container orchestration, cloud monitoring, and automation-first DevOps culture**.
 
 I specialize in:
-- Cloud Infra Automation (**AWS, Terraform**)  
-- CI/CD Engineering (**Jenkins, GitLab CI/CD**)  
-- Containerization (**Docker, Kubernetes, ECS/EKS**)  
-- Observability (**Prometheus, Grafana, Loki, Promtail**)  
-- Serverless Solutions (**AWS Lambda, GCP Cloud Run**)  
+- Cloud Platforms (**AWS, GCP**)
+- Infra Automation (**Terraform**)  
+- CI/CD Engineering (**Jenkins, GitLab CI/CD**)
+- Containerization ((**Docker**)   
+- Orchestration (**Docker Swarm, Kubernetes, ECS/EKS**)  
+- Observability (**Newrelic, Prometheus, Grafana, Loki, Promtail**)  
+- Serverless Solutions (**AWS Lambda, GCP Cloud Run, Cloud Functions**)  
 
 I’m passionate about **automation, reliability, cloud engineering, and designing scalable DevOps architectures**.
 
@@ -31,12 +37,12 @@ I’m passionate about **automation, reliability, cloud engineering, and designi
 ### **DevOps Engineer – Digival Solutions**  
 **Aug 2023 – Present**
 
-- Automated AWS cloud infrastructure using **Terraform** for scalable and reliable environments.  
+- Automated AWS cloud infrastructure using **Terraform** for scalable, reliable environments and reduced manual provisioning time by 80%.  
 - Built advanced **CI/CD pipelines** with Jenkins & GitLab CI/CD for microservices.  
 - Containerized and deployed workloads using **Docker, ECR, ECS** with GitLab registry integration.  
 - Implemented observability stacks (**Prometheus, Grafana, Loki, Promtail**) for performance insight and log analytics.  
 - Developed **AWS Lambda (Python)** automation for cloud alerts via Slack/SNS.  
-- Managed MongoDB, Redis, PostgreSQL for high availability and security.
+- Managed MongoDB, Redis, PostgreSQL databases with high availability and security.
 
 ---
 
@@ -44,10 +50,10 @@ I’m passionate about **automation, reliability, cloud engineering, and designi
 **Jul 2021 – Jul 2023**
 
 - Deployed AWS infrastructure using **Terraform** and improved infrastructure reliability.  
-- Designed Docker Swarm clusters for distributed workloads.  
-- Implemented **GCP Cloud Run** & Cloud Functions to optimize cloud costs via autoscaling.  
-- Automated deployments for Angular & Node.js apps using Jenkins & GitLab pipelines.  
-- Implemented Prometheus & Grafana dashboards for real-time monitoring and alerting.  
+- Designed **Docker Swarm** clusters for distributed workloads.  
+- Implemented **GCP Cloud Run & Cloud Functions** to optimize cloud costs via autoscaling.  
+- Automated deployments for Angular & Node.js apps using **Jenkins & GitLab** pipelines.  
+- Implemented **Prometheus & Grafana** dashboards for real-time monitoring and alerting.  
 
 ---
 ## 🔗 Connect With Me
