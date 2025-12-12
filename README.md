@@ -20,54 +20,11 @@ I’m passionate about **automation, reliability, cloud engineering, and designi
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
+| AWS | GCP | Docker | Kubernetes | Terraform | Jenkins | GitLab | Prometheus | Grafana | Loki | MongoDB |
+|:---:|:---:|:------:|:----------:|:---------:|:-------:|:------:|:----------:|:-------:|:----:|:-------:|
+| <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="50"/><br> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50"/><br> | <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="50"/><br> | <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width="50"/><br> | <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=5C4EE5" width="50"/><br> | <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="50"/><br> | <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" width="50"/><br> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/512px-Prometheus_software_logo.svg.png" width="50"/><br> | <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50"/><br> | <img src="https://raw.githubusercontent.com/grafana/loki/master/docs/sources/logo.png" width="50"/><br> | <img src="https://logo.svgcdn.com/logos/mongodb.png" width="50"/><br> |
 
-<!-- AWS -->
-<img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="65px" alt="AWS"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- GCP -->
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60px" alt="GCP"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Docker -->
-<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="65px" alt="Docker"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Kubernetes -->
-<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width="65px" alt="Kubernetes"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Terraform -->
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=5C4EE5" width="65px" alt="Terraform"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Jenkins -->
-<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="65px" alt="Jenkins"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- GitLab -->
-<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" width="65px" alt="GitLab"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Prometheus -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/512px-Prometheus_software_logo.svg.png" width="60px" alt="Prometheus"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Grafana -->
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="55px" alt="Grafana"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Loki -->
-<img src="https://raw.githubusercontent.com/grafana/loki/master/docs/sources/logo.png" width="65px" alt="Loki"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- MongoDB -->
-<img src="https://logo.svgcdn.com/logos/mongodb.png" width="65px" alt="MongoDB Logo"/>
-
-
-</p>
-
+<br>
 
 ## 🏢 Professional Experience  
 
