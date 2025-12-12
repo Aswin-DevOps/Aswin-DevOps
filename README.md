@@ -1,9 +1,4 @@
-
-**Aswin-DevOps/Aswin-DevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<h1 align="center">Hi 👋, I'm Aswin R</h1>
+<h1 align="center">Hi 👋, I'm Aswin R</h1>
 <h3 align="center">🚀 DevOps Engineer | AWS | Terraform | Docker | Kubernetes | CI/CD Automation</h3>
 
 ---
@@ -101,16 +96,4 @@ App deployment using K8s + Prometheus + Grafana dashboards + Loki logging stack.
 Python function that monitors server CPU, memory, and sends alerts to Slack/SNS.
 
 ---
-
-## 📈 GitHub Stats (Optional)
-Add these once repos exist:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
