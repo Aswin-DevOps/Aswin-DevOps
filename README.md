@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <strong>Aswin R</strong></h1>
-<h3 align="center">DevOps Engineer | AWS | Terraform | Docker | Kubernetes | CI/CD | Cloud Automation</h3>
+<h3 align="center">DevOps Engineer | AWS | GCP | Docker | Jenkins |  Terraform | Kubernetes | CI/CD | Cloud Automation</h3>
 
 ---
 
