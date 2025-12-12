@@ -62,8 +62,9 @@ I’m passionate about **automation, reliability, cloud engineering, and designi
 <img src="https://raw.githubusercontent.com/grafana/loki/master/docs/sources/logo.png" width="65px" alt="Loki"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- Bash -->
-<img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="65px" alt="Bash"/>
+<!-- MongoDB -->
+<img src="https://logo.svgcdn.com/logos/mongodb.png" width="65px" alt="MongoDB Logo"/>
+
 
 </p>
 
